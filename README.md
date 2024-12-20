@@ -1,10 +1,8 @@
 
-![221376202-40474f94-3a65-4f9f-b8e3-85dabef15e67](https://github.com/user-attachments/assets/b01ac345-df78-4022-b60b-fb8ec7c74f05)
-
- 
-
 ## Terraform Module - Local Environment | ⭐⭐⭐ By Yevgeni
 
+![221376202-40474f94-3a65-4f9f-b8e3-85dabef15e67](https://github.com/user-attachments/assets/24bcbfd4-a2bb-4951-a75c-8887f5c2f37c)
+ 
 
 
 ✅ Requirements
