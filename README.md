@@ -7,11 +7,11 @@ Tools like Docker, Kind, and Terraform allow developers to launch Kubernetes loc
 
 ✅ Requirements
 
-Hardware Specification ( 8 CPU - 8 RAM )
+Hardware Specification : Will be soon 
 
 🎯 Installation
 
-How to launch a setup : 
+How to launch a setup : Pleae talk with me directly over the Linkedin 
 
 🚀 
 
