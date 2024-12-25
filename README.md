@@ -11,7 +11,7 @@ Hardware Specification : Will be soon
 
 🎯 Installation
 
-How to launch a setup : Pleace talk with me directly over the Linkedin 
+How to launch a setup : Please talk with me directly 
 
 🚀 
 
