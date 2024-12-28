@@ -3,7 +3,8 @@
  
 
 ## Terraform Module - Kind | ⭐⭐⭐ Yevgeni ⭐⭐⭐
-Tools like Docker, Kind, and Terraform allow developers to launch Kubernetes locally, providing a quick and accessible way to test and debug software without additional resources
+Kind is a tool for running local Kubernetes clusters using Docker container “nodes” , can providing a quick way to test and development software without additional resources
+
 
 ✅ Requirements
 
